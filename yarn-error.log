@@ -1,0 +1,31 @@
+Arguments: 
+  /Users/sheila/.nvm/versions/node/v14.17.5/bin/node /Users/sheila/.nvm/versions/node/v14.17.5/bin/yarn global bin
+
+PATH: 
+  /Users/sheila/.nvm/versions/node/v14.17.5/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/sheila/Library/Android/sdk/platform-tools:/Users/sheila/.nvm/versions/node/v14.17.5/bin
+
+Yarn version: 
+  1.22.17
+
+Node version: 
+  14.17.5
+
+Platform: 
+  darwin x64
+
+Trace: 
+  SyntaxError: /Users/sheila/Desktop/NucampFolder/5-NodeJS-Express-MongoDB/node-express/package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at /Users/sheila/.nvm/versions/node/v14.17.5/lib/node_modules/yarn/lib/cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (/Users/sheila/.nvm/versions/node/v14.17.5/lib/node_modules/yarn/lib/cli.js:310:30)
+      at /Users/sheila/.nvm/versions/node/v14.17.5/lib/node_modules/yarn/lib/cli.js:321:13
+
+npm manifest: 
+  
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
